@@ -22,6 +22,11 @@ the following happens:
 2. the rules in Mathematica format are download and installed in the input folder
 3. in all files and folders the spaces are replaced by an underscore
 
+You can now find the source code of the package and the documentation in the folder:
+```
+~/.julia/dev/Rubi
+```
+
 ## TODO
 
 1. write a function that extracts the rules in text format from the files in the input folder and stores them in a .yaml file.
