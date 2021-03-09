@@ -13,7 +13,8 @@ When you install this package with the command:
 
 ```
 using Pkg
-Pkg.add("https://github.com/ufechner7/Rubi.jl")
+Pkg.add(url="https://github.com/ufechner7/Rubi.jl")
+Pkg.dev("Rubi")
 ```
 the following happens:
 
