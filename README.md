@@ -51,3 +51,7 @@ Int[x_^m_.,x_Symbol] :=
 FreeQ[m,x] && NeQ[m,-1]
 ```
 Remark: The last line describes the condition under which the rule applies
+
+## How to contribute
+If you want to contribute, please explain your ideas at https://github.com/ufechner7/Rubi.jl/discussions ,
+fork the repository and create a pull request.
